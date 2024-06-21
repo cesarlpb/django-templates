@@ -176,3 +176,4 @@ cython_debug/
 # Custom
 .DS_Store
 *.bak
+.venv
