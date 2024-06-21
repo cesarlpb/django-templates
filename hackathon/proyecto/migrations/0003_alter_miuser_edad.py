@@ -5,7 +5,7 @@ from django.db import migrations, models
 
 class Migration(migrations.Migration):
     dependencies = [
-        ("hackathon", "0002_alter_miuser_email"),
+        ("proyecto", "0002_alter_miuser_email"),
     ]
 
     operations = [

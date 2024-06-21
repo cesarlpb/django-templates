@@ -1,5 +1,5 @@
 from django.contrib import admin
-from hackathon.models import MiUser
+from proyecto.models import MiUser
 
 class MiUserAdmin(admin.ModelAdmin):
     pass
